@@ -1,5 +1,8 @@
 {
-  "siteId": 239,
-  "namespace": "deco-sites/fashion",
-  "imports": ["$live/live.gen.ts", "deco-sites/std/live.gen.ts"]
+  "siteId": 2104,
+  "namespace": "deco-sites/test-socket",
+  "imports": [
+    "$live/live.gen.ts",
+    "deco-sites/std/live.gen.ts"
+  ]
 }
